@@ -13,7 +13,5 @@ A bold, modern, and responsive landing page template designed with vibrant orang
 ## 📸 Screenshots
 
 ![Header](./screenshots/header.png)
-
 ![Body](./screenshots/body.png)
-
 ![Footer](./screenshots/footer.png)
